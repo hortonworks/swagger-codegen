@@ -1,0 +1,15 @@
+{
+  "packageName": "pyyarn",
+  "packageVersion":{
+    "opt":"packageVersion",
+    "description":"python package version.",
+    "type":"string",
+    "default":"1.0.0"
+  },
+  "sortParamsByRequiredFlag":{
+    "opt":"sortParamsByRequiredFlag",
+    "description":"Sort method arguments to place required parameters before optional parameters.",
+    "type":"boolean",
+    "default":"true"
+  }
+}
